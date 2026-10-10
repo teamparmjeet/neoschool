@@ -195,7 +195,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       </section>
 
       {/* 3. INTERACTIVE CODE PLAYGROUND PREVIEW ON HOMEPAGE */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-[#FFF9F3] border border-orange-200 rounded-3xl p-6 sm:p-10 shadow-sm">
           <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
             <div>
@@ -221,7 +221,7 @@ export const HomePage: React.FC<HomePageProps> = ({
 
           <CodePlayground title="Home Interactive Preview" />
         </div>
-      </section>
+      </section> */}
 
       {/* 4. POPULAR COURSES & TRENDING TUTORIALS */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
