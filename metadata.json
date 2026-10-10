@@ -1,0 +1,6 @@
+{
+  "name": "CodeNexus - Interactive Coding Platform",
+  "description": "Modern interactive developer learning platform with live code playground, structured tutorials, exercises, quizzes, and student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
